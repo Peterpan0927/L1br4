@@ -25,4 +25,4 @@ At last, use the command:
 And you will get root~
 Having fun with this
 
-![exp](https://pbs.twimg.com/media/D0UvZJJUUAAP-I5.jpg)
+![exp](https://i.loli.net/2019/02/27/5c764d567c6e7.png)
